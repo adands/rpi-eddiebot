@@ -10,11 +10,17 @@ RPLidar A1
 Parallax Quadrature Encoder
 
 Software：
+
 Ubuntu OS 
+
 ROS2 Humble
+
 sllidar_ros2
+
 navigation2
+
 slam_toolbox
+
 robot_localization
 
 Pin sets：
