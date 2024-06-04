@@ -4,7 +4,7 @@ use Raspberry pi 4 to control robot
 Hardware：
 Raspberry pi ,
 Pololu TB67H420FTG Dual/Single Motor Driver Carrier ,
-DENSO Robotics R730556-7030 ,
+DENSO Robotics R730556-7030 (Change to chw-gw4085-555) ,
 Adafruit ICM-20948 9-DoF IMU ,
 RPLidar A1 ,
 Parallax Quadrature Encoder ,
