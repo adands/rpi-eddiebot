@@ -7,7 +7,10 @@ Pololu TB67H420FTG Dual/Single Motor Driver Carrier ,
 DENSO Robotics R730556-7030 (Change to chw-gw4085-555) ,
 Adafruit ICM-20948 9-DoF IMU ,
 RPLidar A1 ,
-Parallax Quadrature Encoder ,
+Parallax Quadrature Encoder
+
+chw-gw4085-555
+M1(red)  GND(black)  encoder_a(yellow)  encoder_b(green)  Vcc(blue)  M2(white)
 
 Software：
 Ubuntu OS ,
@@ -35,9 +38,9 @@ Pin sets：
     
     motor driver：
     
-      A+： red → blue
+      A+： red → blue  (M1 red)
       
-      A-： black → yellow
+      A-： black → yellow (M2 white)
 
   right_wheel：
     
@@ -55,6 +58,6 @@ Pin sets：
     
     motor driver：
     
-      B+： red → yellow
+      B+： red → yellow (M2 white)
       
-      B-： black → blue
+      B-： black → blue  (M1 red)
