@@ -38,9 +38,9 @@ Pin sets：
     
     motor driver：
     
-      A+： red → blue  (M1 red)
+      A+： red → blue  (M1 white)
       
-      A-： black → yellow (M2 white)
+      A-： black → yellow (M2 red)
 
   right_wheel：
     
