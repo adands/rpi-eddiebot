@@ -38,9 +38,9 @@ Pin sets：
     
     motor driver：
     
-      A+： red → blue  (M1 white)
+      A+： (wire)red → (Denso Mote)blue  (M1 white)
       
-      A-： black → yellow (M2 red)
+      A-： (wire)black → (Denso Mote)yellow (M2 red)
 
   right_wheel：
     
@@ -58,6 +58,6 @@ Pin sets：
     
     motor driver：
     
-      B+： red → yellow (M2 white)
+      B+： (wire)red → (Denso Mote)yellow (M2 white)
       
-      B-： black → blue  (M1 red)
+      B-： (wire)black → (Denso Mote)blue  (M1 red)
